@@ -1,7 +1,5 @@
 package com.jam.reviewms.reviews;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.vivek.jobapp.companies.Company;
 import jakarta.persistence.*;
 
 @Entity
